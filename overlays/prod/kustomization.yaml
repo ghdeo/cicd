@@ -5,5 +5,7 @@ images:
   newName: /
 - name: client-app
   newTag: main-3abede514e69bf831c9b14e42ca62ff7f179687a
+- name: kkanbustock
+  newTag: main-f70f4538f95eb08343161647279571c2fdbdb250
 resources:
 - ../../resources
