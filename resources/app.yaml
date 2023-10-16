@@ -24,7 +24,7 @@ spec:
                 - ng-4
       containers:
       - name: client-app
-        image: 686710509719.dkr.ecr.ap-northeast-2.amazonaws.com/team-4:20231016161113
+        image: 686710509719.dkr.ecr.ap-northeast-2.amazonaws.com/team-4:main-f70f4538f95eb08343161647279571c2fdbdb250
         imagePullPolicy: IfNotPresent
         resources:
           requests:
